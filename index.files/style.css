@@ -1,0 +1,89 @@
+.border {
+	BACKGROUND-COLOR: #666666
+}
+.menu-header {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #bdea2d
+}
+
+blockquote {
+	margin: 10px;
+ 	padding: 0 0 0 28px;  
+   border: 1px solid #f2f2f2; 
+  	background: #FAFAFA url(quote.gif) no-repeat 5px 5px;    
+}
+
+code {
+  margin: 5px 0;
+  padding: 10px;
+  text-align: left;
+  display: block;
+  overflow: auto;  
+  font: 500 1em/1.5em 'Lucida Console', 'courier new', monospace ;
+  /* white-space: pre; */
+  background: #FAFAFA;
+  border: 1px solid #f2f2f2;  
+}
+
+.menu {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e1f6a1; TEXT-ALIGN: justify
+}
+.menu-footer {
+	FONT-SIZE: 10px; COLOR: #999999; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ecf9c4
+}
+.dark {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #bdea2d
+}
+.middark {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e1f6a1
+}
+.light {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ecf9c4
+}
+.content-header {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e1f6a1; TEXT-ALIGN: right
+}
+.content {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; FONT-SIZE: 11px; COLOR: #333333; PADDING-TOP: 25px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ecf9c4
+}
+TD {
+	FONT-SIZE: 11px; WORD-WRAP: break-word
+}
+.content-footer {
+	PADDING-RIGHT: 25px; BACKGROUND-POSITION: right 50%; PADDING-LEFT: 25px; FONT-SIZE: 10px; COLOR: #999999; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fbfef2; TEXT-ALIGN: right
+}
+.navbar {
+	BACKGROUND-POSITION: right 50%; FONT-SIZE: 10px; COLOR: #999999; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fbfef2
+}
+HR {
+	COLOR: #bdea2d
+}
+LI {
+	LIST-STYLE-TYPE: square
+}
+A {
+	COLOR: #77970c; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #77970c; TEXT-DECORATION: underline
+}
+A:link {
+	COLOR: #77970c; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #77970c; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+INPUT {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #333333 1px solid; COLOR: #333333; BORDER-BOTTOM: #333333 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #bdea2d
+}
+SELECT {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #333333 1px solid; COLOR: #333333; BORDER-BOTTOM: #333333 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #bdea2d
+}
+TEXTAREA {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #333333 1px solid; COLOR: #333333; BORDER-BOTTOM: #333333 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #bdea2d
+}
+.error {
+	COLOR: #bb0000
+}
