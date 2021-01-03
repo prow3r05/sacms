@@ -24,7 +24,7 @@ include ("./$folder_name/$pages.$file_ext");
 }
 else
 {
-include ("./$folder_name/404.$file_ext");
+include ("./$folder_name/404.$file_ext"); // 404 error file
 }
 $templ = @file_get_contents ("$style_path/index.tpl");    
 $templ = str_replace ("{title}", $title, $templ);               
