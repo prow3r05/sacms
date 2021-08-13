@@ -1,4 +1,6 @@
 # SA.CMS
+##### Язык README.md: [:gb: English](https://github.com/kroshmorkovkin/sacms/blob/main/README.md), [:ru: Русский](https://github.com/kroshmorkovkin/sacms/blob/main/README-ru.md)
+
 Самая маленькая CMS без MySQL на PHP весом всего в 16 КБ
 
 # Демонстрация
