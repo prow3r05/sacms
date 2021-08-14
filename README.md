@@ -1,8 +1,8 @@
-# SA.CMS 0.5
-Самая маленькая CMS без MySQL на PHP весом 16кб
+# SA.CMS
+##### README.md language: [:gb: English](https://github.com/kroshmorkovkin/sacms/blob/main/README.md), [:ru: Русский](https://github.com/kroshmorkovkin/sacms/blob/main/README-ru.md)
 
-# Демка / demo
-Протестировать демку ты можешь тут (английская версия , на сервере установлен PHP8)
-You can test the demo here (English version, PHP 8 is installed on the server)
+The smallest CMS without MySQL in PHP weighing just 16 KB
 
-http://minestroymc.ml/sacms-demo/index.php?page=main
+# Live demo
+~~You can test the demo [here](http://minestroymc.ml/sacms-demo/index.php?page=main).~~
+The website is currently defunct.
