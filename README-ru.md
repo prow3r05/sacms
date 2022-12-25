@@ -4,5 +4,5 @@
 Самая маленькая CMS без MySQL на PHP весом всего в 16 КБ
 
 # Демонстрация
-Протестировать демонстрационную версию можно [тут](http://morkovka.witch.quest/sacms/index.php?page=main).
+Протестировать демонстрационную версию можно [тут](http://ovh.milesprower.ru/sacms/index.php?page=main).
 Логин: git, пароль kroshmorkovkin-sacms-demo-22
