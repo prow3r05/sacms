@@ -4,5 +4,5 @@
 The smallest CMS without MySQL in PHP weighing just 16 KB
 
 # Live demo
-You can test the demo [here](http://morkovka.witch.quest/sacms-en/index.php?page=main).
+You can test the demo [here](http://ovh.milesprower.ru/sacms-en/index.php?page=main).
 login git, pass kroshmorkovkin-sacms-demo-22
